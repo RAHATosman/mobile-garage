@@ -1,0 +1,24 @@
+body {
+    background: #F2F7FB;
+}
+
+.products {
+    display: grid;
+    grid-gap: 25px;
+    padding: 40px 0;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+@media screen and (max-width: 940px) {
+    .products {
+        grid-gap: 20px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .products {
+        grid-template-columns: 1fr;
+    }
+}
