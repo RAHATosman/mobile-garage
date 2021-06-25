@@ -23,7 +23,7 @@ This is a MERN stack project for an imaginary mobile shop. You can add product t
 - [x] Express JS
 - [x] MongoDB
 
-#### Live Link: [Mobile Garage](https://ph-mobile-garage.web.app/)
+#### Live Link: [Mobile Garage](https://mobile-garage-92ca6.web.app/)
 
 #### Create React App
 ```
@@ -79,3 +79,4 @@ yarn add dotenv
 font-family: 'Montserrat', sans-serif;
 font-family: 'Roboto', sans-serif;
 ```# mobile-garage
+# mobile-garage-server
